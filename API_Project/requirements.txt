@@ -1,4 +1,3 @@
 requests
 streamlit 
 pandas 
-pip intall -r requirement.txt
